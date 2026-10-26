@@ -44,7 +44,7 @@ Face-Detection/
 ## 🧪 Installation & Setup
 
 ### Step 1: Clone the repository
-git clone https://github.com/swathipriyakondeti/Real-Time-Face-Detection-Opencv.git 
+git clone https://github.com/swathipriyakondeti/Real-Time-Face-Detection-Opencv.git  
 cd Face-Detection  
 
 ### Step 2: Install dependencies
